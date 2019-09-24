@@ -29,7 +29,7 @@ The page will reload if you make code edits.
 
 # Screenshots
 
-Playing the game
+Running the application
 
 <img src="dad-jokes.gif" width=650>
 
